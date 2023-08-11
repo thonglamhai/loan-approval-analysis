@@ -13,7 +13,7 @@ The dataset was selected from Kaggle (https://www.kaggle.com/datasets/architshar
 ### EDA process for data visualization 
 
 #### Check the value distribution
-![Annual Income](Annual_Income_Distribution.png)
+![Annual Income](./img/Annual_Income_Distribution.png)
 
 #### Check the relationship using Pairplot
 ![Features PairPlot](./img/Features_Pairplot.png)
