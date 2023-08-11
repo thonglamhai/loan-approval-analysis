@@ -16,8 +16,21 @@ To develop a model that will predict the likelihood of loan approval based on cu
 #### Approval Amount Dashboard
 ![Approval Amount Dashboard](./img/Approval_Amount_Dashboard.png)
 ### Hypothesis testing
-### Modelling
+#### T-Test: Loan status and Cibil score
+H0: `Loan status` has relationship with `Cibil score`
+H1: `Loan status` has no relationship with `Cibil score`
+![T-Test](./img/T-test.png)
 
+#### Anova test:
+#### Chi-squared test
+`Education` and `Loan status`
+![Chi-squared Test](./img/Chi-squared.png)
+
+### Modelling
+#### Line Regression Model - Backward selection
+![Linear Regression](./img/Linear_Regression.png)
+#### Logistic Regression Model
+![Logistic Regression](./img/Logistic_Regression.png)
 ## Results
 - Produced two models with 86% and 77% accuracy of predicting loan approval status
 - Loan term, cibil score have major effects on the approval
