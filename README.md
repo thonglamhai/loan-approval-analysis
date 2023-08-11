@@ -8,8 +8,21 @@ To develop a model that will predict the likelihood of loan approval based on cu
 
 ## Process
 ### Data collection from Kaggle
+The dataset was selected from Kaggle (https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset) for this project.
 ### Data Preprocessing
 ### EDA process for data visualization 
+
+#### Check the value distribution
+![Annual Income](Annual_Income_Distribution.png)
+
+#### Check the relationship using Pairplot
+![Features PairPlot](./img/Features_Pairplot.png)
+
+#### Check the Outliers
+![Outliers](./img/Outliers.png)
+
+#### Check correlation using Heatmap
+![Heat map](./img/Heat_map.png)
 ### Data visualization using tableau
 #### Approval Rate Dashboard
 ![Approval Rate Dashboard](./img/Approval_Rate_Dashboard.png)
